@@ -6,12 +6,10 @@ Predict rocket launch delays with machine learning (Learning Path) - Microsoft
 This learning path introduces you to the world of machine learning. You'll take a real-life problem that NASA faces and apply machine learning to solve it. The goal is to get students excited and curious to discover how machine learning could help solve other problems in space discovery and different aspects of life.
 
 ## Business Problem
-\
 - To increase the likelihood that the day chosen for launch will be a good weather day.
 - To know what conditions should stop a launch..
 
 ## Objective
-\
 In this module, you'll begin to discover:
 - The challenges weather can pose for a rocket launch
 - The data science lifecycle
