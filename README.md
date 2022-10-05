@@ -22,5 +22,5 @@ In this module, you'll begin to discover:
 - Filtering the data
 - Dealing with missing values
 - Using One Hot Encoding to prepare the data to a binary classification
-### 5. Performed predictive analysis using classification models
+### 3. Build, Train and test the machine learning model to predict rocket launch success
 - Building, tuning and evaluation of classification models to ensure the best results
